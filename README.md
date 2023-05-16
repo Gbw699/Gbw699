@@ -6,7 +6,7 @@
 ### <div align="center">Hola!👋 Soy Gaby, tengo 24 años, vivo en Mendoza, Argentina y soy programador Fullstack.</div>  
   
 
-- 🌱 Actualmente me encuentro aprendiendo Next.js.  
+- 🌱 Actualmente me encuentro aprendiendo Next.js y TypeScript.  
   
 
 - ⚡ En mi tiempo libre me gusta ver películas, seguir varios deportes, escuchar música y leer.  
