@@ -6,7 +6,7 @@
 ### <div align="center">Hola!👋 Soy Gaby, tengo 24 años, vivo en Mendoza, Argentina y soy programador Fullstack.</div>  
   
 
-- 🌱 Actualmente me encuentro trabajando y aprendiendo Angular y Java.    
+- 🌱 Actualmente me encuentro trabajando con Angular y Java.    
   
 
 - ⚡ En mi tiempo libre me gusta ver películas, seguir varios deportes, escuchar música y leer.    
