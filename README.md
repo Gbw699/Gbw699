@@ -81,13 +81,15 @@
  
 
 <div align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbw699&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbw699&hide_border=true&layout=compact" align="center" />  
 </div>  
   
 
 <br/>  
 
+<div align="center" dir="auto">
 <img src="https://komarev.com/ghpvc/?username=Gbw699&&style=flat-square" align="center" />
+</div>  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
