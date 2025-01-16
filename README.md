@@ -63,19 +63,15 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
+</table>  
 
 <br/>  
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Gbw699&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbw699&hide_border=true&layout=compact" align="left" />  
 
